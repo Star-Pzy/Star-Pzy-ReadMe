@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Star-Pzy
 - 👀 I’m interested in computer games
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C language.
 - 📫 How to reach me QQ：1210273083，WeChat：abc1210273083
 - 😄 Pronouns:NO
 - ⚡ Fun fact: NO
