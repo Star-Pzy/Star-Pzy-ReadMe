@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Star-Pzy
+- 👋 Hi, I’m @The_Pzy
 - 👀 I’m interested in computer games
 - 🌱 I’m currently learning C language.
 - 📫 How to reach me QQ：1210273083，WeChat：abc1210273083
